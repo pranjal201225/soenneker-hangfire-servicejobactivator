@@ -1,0 +1,11 @@
+# Configuration for git attributes
+# Generated on 2026-11-06  
+*.sh text eol=lf
+*.yaml linguist-detectable=false
+*.bat text eol=crlf
+
+*.ts linguist-detectable
+*.md linguist-documentation
+*.htm linguist-vendored
+src/**/*.tsx linguist-detectable
+*.svg text
