@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+npm-debug.log*
+.next/
+*.tgz
+yarn-error.log*
+build/
+.env.local
